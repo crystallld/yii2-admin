@@ -1,0 +1,15 @@
+/**
+ * 兼容kartik-v的select2-addl.css
+ */
+.s2-togall-button {
+    padding: 0.01rem;
+}
+
+.s2-togall-button .s2-select-label i,
+.s2-togall-button .s2-unselect-label i {
+    margin: auto 0.1rem;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+    margin-top: inherit;
+}
